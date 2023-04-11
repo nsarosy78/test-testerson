@@ -1,0 +1,8 @@
+optConfig:
+  optIn: true
+action: fix
+enforceDefault: true
+requireApproval: true
+approvalCount: 1
+dismissStale: false
+blockForce: true
